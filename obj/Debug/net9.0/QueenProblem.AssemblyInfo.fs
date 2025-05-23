@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("QueenProblem")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8aa399f945870007453a28fe43a7a2f27bd4126")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8d228b1c991a5e2ae99460f066858f85b352c61")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("QueenProblem")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("QueenProblem")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
